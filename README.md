@@ -17,4 +17,4 @@ Team Retrospectives [[view]](https://docs.google.com/document/d/e/2PACX-1vQjbrmF
 
 
 
-# Team Links website: https://sprixl.github.io/
+# Team Links website: [View](https://sprixl.github.io/)
