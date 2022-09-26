@@ -1,6 +1,4 @@
-# Sprixl
-
-## The Sprixl Team
+# The Sprixl Team
 - Ryan - Product Owner
 - Joseph - Scrum Master
 - Zoe - Developer
