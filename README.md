@@ -5,6 +5,7 @@
 - Nathan - Developer
 - Donald - Management
 - Brandon - Developer
+- Timmy - Developer
 
 # Important Links:
 Team Time Tracking [[view]](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_gGX_fB0K4U745nIGB2HtRpGucDSoBAHm013dvmmEG5h4zYvf4kugWGwOp9yfUOXdIDrwbiN11PAJ/pubhtml)-[[edit]](https://docs.google.com/spreadsheets/d/1FHx4JKvgtIygNhTpgpceAdkeiKxWjct0M_zxZWxaoNI/edit#gid=1696030646)
