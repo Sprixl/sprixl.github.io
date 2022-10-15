@@ -1,4 +1,4 @@
-# The Sprixl Team
+# <img alt="Logo" src="sprixl-logo.png" width="50" /> The Sprixl Team
 - Ryan - Product Owner
 - Joseph - Scrum Master
 - Zoe - Developer
